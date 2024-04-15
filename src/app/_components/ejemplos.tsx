@@ -1,6 +1,6 @@
 export function Belgica() {
   return (
-    <section className="flex-col md:flex-col flex items-center md:justify-between mt-16 mb-16 md:mb-12">
+    <section className="flex-col md:flex-col flex items-center md:justify-between my-64">
       {/* quiero agregar 3 subtitulos de ejemplos */}
       {/* primer ejemplo: foto de la camiseta de bélgica + adidas + Tintin*/}
       <div>

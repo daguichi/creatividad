@@ -5,7 +5,7 @@ export function Portfolios() {
     // https://juliangarnier.com/
     // https://henryheffernan.com/
 
-    <section className="flex-col md:flex-col flex items-center md:justify-between mt-16 mb-16 md:mb-12">
+    <section className="flex-col md:flex-col flex items-center md:justify-between my-64">
       <h4 className="text-4xl md:text-6xl font-bold tracking-tighter leading-tight md:pr-8">
         portfolios que me parecen creativos
       </h4>

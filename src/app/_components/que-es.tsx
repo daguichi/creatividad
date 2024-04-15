@@ -2,7 +2,7 @@
 
 export function QueEs() {
   return (
-    <section className="flex-col md:flex-col flex md:justify-between mt-16 mb-16 md:mb-12">
+    <section className="flex-col md:flex-col flex md:justify-between my-64">
       <h3 className="text-lg md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
         qué es?
       </h3>
