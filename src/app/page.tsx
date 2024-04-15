@@ -9,6 +9,7 @@ import { Belgica } from "./_components/ejemplos";
 import { Tachero } from "./_components/tachero";
 import { Portfolios } from "./_components/portfolios";
 import { Fade } from "react-awesome-reveal";
+import { Apple } from "./_components/apple";
 
 export default function Index() {
 
@@ -30,6 +31,9 @@ export default function Index() {
         <Fade>
 
           <Tachero />
+        </Fade>
+        <Fade>
+          <Apple />
         </Fade>
         <Fade>
 
